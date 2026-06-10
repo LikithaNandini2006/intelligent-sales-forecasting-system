@@ -1,0 +1,31 @@
+date,product,category,region,units_sold,unit_price,stock
+2026-01-01,Laptop Pro,Electronics,South,8,78000,42
+2026-01-02,Noise Cancelling Headphones,Electronics,South,17,6500,75
+2026-01-03,Office Chair,Furniture,West,11,9200,24
+2026-01-04,Standing Desk,Furniture,West,6,18500,18
+2026-01-05,Smart Watch,Electronics,North,21,11999,64
+2026-01-06,Water Bottle,Accessories,East,38,699,140
+2026-01-07,Laptop Pro,Electronics,South,9,78000,39
+2026-01-08,Noise Cancelling Headphones,Electronics,North,14,6500,70
+2026-01-09,Office Chair,Furniture,East,10,9200,22
+2026-01-10,Standing Desk,Furniture,South,7,18500,15
+2026-01-11,Smart Watch,Electronics,West,24,11999,58
+2026-01-12,Water Bottle,Accessories,North,41,699,130
+2026-01-13,Laptop Pro,Electronics,East,10,78000,35
+2026-01-14,Noise Cancelling Headphones,Electronics,West,19,6500,63
+2026-01-15,Office Chair,Furniture,South,12,9200,20
+2026-01-16,Standing Desk,Furniture,North,8,18500,13
+2026-01-17,Smart Watch,Electronics,East,26,11999,51
+2026-01-18,Water Bottle,Accessories,West,45,699,121
+2026-01-19,Laptop Pro,Electronics,North,11,78000,30
+2026-01-20,Noise Cancelling Headphones,Electronics,East,20,6500,55
+2026-01-21,Office Chair,Furniture,North,13,9200,18
+2026-01-22,Standing Desk,Furniture,East,9,18500,11
+2026-01-23,Smart Watch,Electronics,South,28,11999,44
+2026-01-24,Water Bottle,Accessories,South,49,699,110
+2026-01-25,Laptop Pro,Electronics,West,12,78000,26
+2026-01-26,Noise Cancelling Headphones,Electronics,South,22,6500,48
+2026-01-27,Office Chair,Furniture,West,15,9200,15
+2026-01-28,Standing Desk,Furniture,West,10,18500,9
+2026-01-29,Smart Watch,Electronics,North,31,11999,36
+2026-01-30,Water Bottle,Accessories,East,52,699,98
