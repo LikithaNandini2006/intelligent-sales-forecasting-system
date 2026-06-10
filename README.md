@@ -185,22 +185,6 @@ streamlit run app.py
 
 Add Screenshot Here
 
-```markdown
-![Home](screenshots/home.png)
-```
-
-### Data Upload
-
-```markdown
-![Upload](screenshots/upload.png)
-```
-
-### EDA Analysis
-
-```markdown
-![EDA](screenshots/eda.png)
-```
-
 ### Sales Forecasting
 
 ```markdown
