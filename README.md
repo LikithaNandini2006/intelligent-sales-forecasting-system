@@ -1,5 +1,8 @@
 # 📈 Intelligent Sales Forecasting and Inventory Optimization System
 
+## **DEMO LINK**
+https://intelligent-sales-forecasting-system.onrender.com
+
 ## 📌 Project Overview
 
 The **Intelligent Sales Forecasting and Inventory Optimization System** is a Streamlit-based machine learning application that helps businesses analyze historical sales data, forecast future revenue, and optimize inventory levels.
